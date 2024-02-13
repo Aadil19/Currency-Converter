@@ -77,3 +77,12 @@ form button {
   font-size: 1.15rem;
   cursor: pointer;
 }
+footer {
+  position: absolute;
+  top: 90vh;
+  font-size: small;
+  padding: 0.5rem;
+  height: 1rem;
+  border: 1px solid rgb(2, 39, 52);
+  border-radius: 1rem;
+}
